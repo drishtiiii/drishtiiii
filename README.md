@@ -8,8 +8,6 @@
 <h3 align="left">👧🏼 About Me:</h3>
 <img align="right" alt="coding" width="" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🔭 I’m currently working on **Brain Tumour Detection**
-
 - 🌱 I’m currently learning **Python and ML**
 
 <h3 align="left">🔗 Social info:</h3>
