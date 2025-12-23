@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Drishti</h1>
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Drishti+Saha!;A+passionate+developer+from+India" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Drishti!;A+passionate+developer+from+India" alt="Typing SVG" /></a>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drishtiiii&label=Profile%20views&color=0e75b6&style=flat" alt="drishtiiii" /> </p>
