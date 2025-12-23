@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Drishti Saha</h1>
+<h1 align="center">Hi 👋, I'm Drishti</h1>
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Drishti+Saha!;A+passionate+developer+from+India" alt="Typing SVG" /></a>
 </h3>
