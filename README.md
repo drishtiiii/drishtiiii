@@ -36,9 +36,3 @@
 <h3 align="left">⚓️ Tools:</h3>
 <p align="left">  <img align="center" src="https://skillicons.dev/icons?i=tensorflow,pytorch,mysql,pug,vscode" alt="ddd" />
 </p>
-
-<h3 align="left">⏳ My Stats: </h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drishtiiii&show_icons=true&locale=en&layout=compact" alt="drishtiiii" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drishtiiii&show_icons=true&locale=en&theme=radical" alt="drishtiiii" /></p>
