@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Drishti Saha</h1>
 
 <h3 align="center">
-AI Engineer | Machine Learning Enthusiast | Agentic AI Developer from India 🇮🇳
+AI Engineer | FastAPI • LangGraph • Generative AI • Machine Learning | Building production-ready AI applications
 </h3>
 
 <p align="center">
